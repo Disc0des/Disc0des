@@ -4,9 +4,9 @@
 <br>
 I began my coding journey in October 2021, here you'll find all the projects I built during a 6 month bootcamp with Command Shift, and personal projects Ive played around with since.</h3>
 
-- 💬 I’m currently working on **a custom booking app for my partners business**
+- 💬 I’m currently working on **a 2D RPG using SDL2**
 
-- 👨‍💻 I’m currently learning **Springboot and React Native**
+- 👨‍💻 I’m currently learning **C++ and Java**
 
 <p align="left">
 </p>
