@@ -1,5 +1,5 @@
 <h1 align="center">Hey! I'm Dan 👋</h1>
-<h3 align="center" width="50">I'm a full stack software engineer @ Sky Betting and Gaming, and a front end tutor @ Command Shift.
+<h3 align="center" width="50">I'm a full stack senior software @ Gamma Labs.
 <br>
 <br>
 I began my coding journey in October 2021, here you'll find all the projects I built during a 6 month bootcamp with Command Shift, and personal projects Ive played around with since.</h3>
